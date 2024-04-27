@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "name":"DSA",
+        "title":"DSA/Dev course",
+        "price":0,
+        "category":"Free",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
+    },
+    {
+        "id":2,
+        "name":"Web Dev",
+        "title":"DSA/Dev course",
+        "price":20,
+        "category":"Paid",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/HXkQq61gtg4/hqdefault.jpg"
+    },
+    {
+        "id":3,
+        "name":"Java",
+        "title":"DSA/Dev course",
+        "price":0,
+        "category":"Free",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/B7wHpNUUT4Y/hqdefault.jpg"
+    },
+    {
+        "id":4,
+        "name":"Web Dev PW",
+        "title":"DSA/Dev course",
+        "price":20000,
+        "category":"Paid",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/HXkQq61gtg4/hqdefault.jpg"
+    },
+    {
+        "id":5,
+        "name":"Harkeerat cohort",
+        "title":"DSA/Dev course",
+        "price":0,
+        "category":"Free",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
+    },
+    {
+        "id":6,
+        "name":"Python",
+        "title":"DSA/Dev course",
+        "price":10,
+        "category":"Paid",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
+    },
+    {
+        "id":7,
+        "name":"Python",
+        "title":"DSA/Dev course",
+        "price":0,
+        "category":"Free",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
+    },
+    {
+        "id":8,
+        "name":"Python",
+        "title":"DSA/Dev course",
+        "price":10,
+        "category":"Paid",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
+    },
+    {
+        "id":9,
+        "name":"Python",
+        "title":"DSA/Dev course",
+        "price":0,
+        "category":"Free",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
+    },
+    {
+        "id":10,
+        "name":"Python",
+        "title":"DSA/Dev course",
+        "price":100,
+        "category":"Paid",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
+    },
+    {
+        "id":11,
+        "name":"Python",
+        "title":"DSA/Dev course",
+        "price":0,
+        "category":"Free",
+        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
+    }
+]
