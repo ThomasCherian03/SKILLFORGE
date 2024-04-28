@@ -155,7 +155,7 @@ function Navbar() {
         {/* Login */}
         {/* <div className="">
             <a className="px-3 py-2 text-white duration-300 bg-black rounded-md cursor-pointer hover:bg-slate-800"
-            onClick={()=>document.getElementById("my_modal_3").showModal()} >
+            onClick={()=>document.getElementById("my_modal_3").showModal()}>
               Login
             </a>
         <Login/>
