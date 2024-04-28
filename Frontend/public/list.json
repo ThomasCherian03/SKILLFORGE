@@ -1,11 +1,11 @@
 [
     {
         "id":1,
-        "name":"DSA",
-        "title":"DSA/Dev course",
+        "name":"Basics Of C++",
+        "title":"- By Striver",
         "price":0,
         "category":"Free",
-        "link":"https://www.youtube.com/watch?v=UmnCZ7-9yDY",
+        "link":"https://www.youtube.com/watch?v=EAR7De6Goz4",
         "image":"https://i.ytimg.com/vi/EAR7De6Goz4/hqdefault.jpg"
     },
     {

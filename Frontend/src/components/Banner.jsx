@@ -7,11 +7,12 @@ function Banner() {
     <div className="container flex flex-col px-4 mx-auto my-10 max-w-screen-2xl md:px-20 md:flex-row">
         <div className="order-2 w-full mt-12 md:w-1/2 md:mt-32">
             <div className="space-y-12 ">
-                <h1 className="text-4xl font-bold ">
-                    Hello, Welcome Here To Learn Something <span className='text-pink-500 '>New Everyday 🔥</span> 
+                <h1 className="text-4xl font-bold">
+                Empower Yourself Through Knowledge! <span className='text-blue-500 '>Sign In To Access Exclusive Content</span> And Accelerate Your Learning
                 </h1>
-                <p className="text-xl ">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Delectus, eum rerum. Laudantium, facere nobis vero earum ullam totam at repellendus tempora beatae nostrum. Harum commodi eligendi aspernatur voluptatibus. Architecto, labore. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus ut reprehenderit, culpa sint natus iste, veniam consequuntur minus in voluptatem suscipit voluptatum. Recusandae placeat ratione dicta ullam quas voluptates deserunt.
+                <p className="text-xl">
+                Explore our range of exceptional free courses covering a variety of subjects. From beginner-friendly tutorials to advanced skill-building sessions, there's something for everyone. Ready to take your learning journey to the next level?
+                <span className='text-green-500 '> Sign up for our premium courses and unlock exclusive content, personalized guidance, and advanced tools to accelerate your progress.</span> <br/>Start learning today
                 </p>
 
                 {/* Email input */}

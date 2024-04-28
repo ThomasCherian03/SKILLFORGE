@@ -14,17 +14,17 @@ function Cards({ item }) {
 
   return (
     <>
-    <div className="mt-4 my-3 p-3  hover:cursor-grab">
-        <div className="card w-92 bg-base-100 shadow-xl hover:scale-105 duration-200">
-        <figure><img src={item.image} alt="Shoes" /></figure>
+    <div className="p-3 my-3 mt-4 hover:cursor-grab">
+        <div className="duration-200 shadow-xl card w-92 bg-base-100 hover:scale-105">
+        <figure><img src={item.image} alt="Course"/></figure>
         <div className="card-body">
             <h2 className="card-title">
             {item.name}
             <div className="badge badge-secondary">{item.category}</div>
             </h2>
             <p>{item.title}</p>
-            <div className="card-actions flex justify-between">
-            <div className="px-2 py-1 bg-gray-800 text-white rounded-full inline-block">
+            <div className="flex justify-between card-actions">
+            <div className="inline-block px-2 py-1 text-white bg-gray-800 rounded-full">
             ₹ {item.price} 
             </div>
 
